@@ -1,0 +1,34 @@
+[
+
+    {
+        "name": "Dexters laboratorium",
+        "description": "Dexter's Laboratory (commonly abbreviated as Dexter's Lab) is an American animated television series created by Genndy Tartakovsky for Cartoon Network. It follows Dexter, a boy-genius and inventor with a hidden laboratory in his room, which he keeps secret from his parents. He is in a constant battle with his older sister Dee Dee, who always finds a way to get inside Dexter's lab and inadvertently foil his experiments.  Dexter also engages in a bitter rivalry with a fellow boy-genius named Mandark, who is Dexter's neighbor and classmate. Prominently featured in the series' first two seasons are segments featuring superhero-based characters Monkey, Dexter's pet lab-monkey/superhero, and The Justice Friends, a trio of superheroes who share an apartment." ,
+        "image_source": "https://www.allatvkanaler.se/poster/dexters-laboratorium_tttXn.jpg",
+        "url": "Dexters laboratorium"
+    },
+
+    {
+        "name": "Johnny Bravo",
+        "description": "Johnny Bravo is an American animated television series created by Van Partible for Cartoon Network, and the second of the network's Cartoon Cartoons, which aired from July 14, 1997, to August 27, 2004. The series centers on the title character, a sunglasses-wearing, muscular young man who lives with his mother and attempts to get women to date him, though he is usually unsuccessful. He ends up in bizarre situations and predicaments, often accompanied by celebrity guest characters such as Donny Osmond or Adam West. Throughout its run, the show was known for its adult humor and pop culture references. Johnny himself is loosely based on Elvis Presley.",
+        "image_source": "https://d3nl7vnltpuheg.cloudfront.net/ce6bfa843ab211e9950b0649b373be7a/media/img/8d119fef2ca88538.jpeg", 
+        "url": "Johnny Bravo"
+    },
+    {
+        "name": "Ed, Edd n Eddy",
+        "description": "Ed, Edd n Eddy is a Canadian-American animated comedy television series created by Danny Antonucci for Cartoon Network, and the fifth of the network's Cartoon Cartoons. The series revolves around three preteen boys named Ed, Edd (called ''Double D'' to avoid confusion with Ed), and Eddy—collectively known as ''the Eds''—who live in a suburban cul-de-sac in the fictional town of Peach Creek. Under the unofficial leadership of Eddy, the trio frequently invent schemes to make money from their peers to purchase their favourite confection, jawbreakers. Their plans usually fail, leaving them in various, often humiliating, predicaments.",
+        "image_source": "https://upload.wikimedia.org/wikipedia/en/thumb/0/0e/Ed%2C_Edd_n_Eddy_characters.png/290px-Ed%2C_Edd_n_Eddy_characters.png",
+        "url": "Ed, Edd n Eddy"
+    },
+    {
+        "name": "Gumball",
+        "description": "he Amazing World of Gumball (TAWOG or simply Gumball) is a British-American surreal comedy animated television series created by Ben Bocquelet for Cartoon Network.[4] Produced primarily by Cartoon Network Studios Europe, it first aired on May 3, 2011.[5] The series revolves around the lives of 12-year-old Gumball Watterson, a blue cat and his goldfish best friend—adoptive brother 10-year-old Darwin, who attend middle school in the fictional city of Elmore. They frequently find themselves involved in various shenanigans around the city, during which time they interact with fellow family members—younger sister Anais, mother Nicole and father Richard—and an extended supporting cast of characters. As of 2020, the series is the 2nd longest-running Cartoon Network show.",
+        "image_source": "https://m.media-amazon.com/images/M/MV5BNTE4NjcyYmQtMjIxZS00MDE0LThjNmMtMDNkZWRiOTlhZjQ3XkEyXkFqcGdeQTNwaW5nZXN0._V1_UX477_CR0,0,477,268_AL_.jpg",
+        "url": "Gumball"
+    },
+    {
+        "name":"Codename: Kids Next Door",
+        "description":"Codename: Kids Next Door (also known as Kids Next Door or by its acronym KND) is an American animated television series created by Mr. Warburton for Cartoon Network, and the thirteenth of the network's Cartoon Cartoons. The series follows the adventures of a group of five 10-year-old children who operate from a high-tech tree house, fighting against adult and teen villains with advanced 2×4 technology. Using their codenames (Numbuhs 1, 2, 3, 4, and 5), they are Sector V, part of a global organization called the Kids Next Door.",
+        "image_source":"https://m.media-amazon.com/images/M/MV5BMDk3ODcxOWMtZmFmOC00MDMzLWExNTctYmM4MmQyNjNiOTYzXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_.jpg",
+        "url": "Codename: Kids Next Door"
+    }
+]

@@ -1,0 +1,43 @@
+{% extends 'base.html'%}
+{% block content %}
+
+
+
+<h3>{{ page_title }}</h3>
+
+
+<p>
+	In the late 1980s, Ted Turner's cable TV group bought movie studio MGM's archive, which in addition to feature
+	films
+	also included many cartoons from Warner Bros. In 1991 Turner also bought animation studio Hanna-Barbera
+	Productions
+	and got their large archive included in the purchase. In order to have space for all these films, the cable
+	channel
+	The Cartoon Network was created. [2] The channel was initially specialized in showing reprints of classic
+	classic
+	films such as the Flinta family. Ted Turner's company Turner Broadcasting was purchased in 1996 by media giant
+	Time
+	Warner. Cartoon Network then became part of Time Warner.
+</p>
+
+{% for member in company %}
+
+
+<div class="row featurette">
+
+	<div class="col-md-7">
+		<h3><a href="/about/{{ member.url}}">{{ loop.index }}. {{ member.name }}</a></h3>
+		<p>
+			{{member.description}}
+		</p>
+	</div>
+	
+    <div class="col-md-5">
+		<img class="featurette-image img-responsive" src="{{ member.image_source }}">
+    </div>
+</div>
+
+<hr class="featurette-divider">
+	
+    {% endfor %}
+	{%endblock%}
